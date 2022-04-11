@@ -1,0 +1,186 @@
+﻿  DXUT.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\DXUT\Core\DXUT.cpp(696,131): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\DXUT\Core\DXUT.cpp(696,187): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\DXUT\Core\DXUT.cpp(697,135): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\DXUT\Core\DXUT.cpp(697,195): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\DXUT\Core\DXUT.cpp(4961,13): warning C4996: 'GetVersionExW': deprecated로 선언되었습니다.
+  Bomb.cpp
+  Bomb_Item.cpp
+  Boss.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\Boss.cpp(28,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\Boss.cpp(46,26): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\Boss.cpp(125,119): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\Boss.cpp(148,120): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Boss2.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\Boss2.cpp(29,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\Boss2.cpp(49,26): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\Boss2.cpp(170,121): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\stdafx.h(52,5): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+E:\재민이백업\DirectX_Shooting\소스코드\Boss2.cpp(159): message : 컴파일되는 함수 템플릿 인스턴스화 'void Debug<int>(wchar_t *,const T &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=int
+          ]
+  BulletJudo.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\BulletJudo.cpp(21,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cAnimation.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\cAnimation.cpp(25,24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cBoxCollider.cpp
+  cCircleCollider.cpp
+  cCollider.cpp
+  cComponent.cpp
+  cIngameScene.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\cIngameScene.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\재민이백업\DirectX_Shooting\소스코드\cIngameScene.cpp(42,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cIngameScene.cpp(52,41): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cIngameScene.cpp(54,43): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cIngameScene.cpp(105,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Clear.cpp
+  cLoadingScene.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\cLoadingScene.cpp(74,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\재민이백업\DirectX_Shooting\소스코드\cLoadingScene.cpp(82,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\재민이백업\DirectX_Shooting\소스코드\cLoadingScene.cpp(83,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\재민이백업\DirectX_Shooting\소스코드\cLoadingScene.cpp(94,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\재민이백업\DirectX_Shooting\소스코드\cLoadingScene.cpp(102,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\재민이백업\DirectX_Shooting\소스코드\cLoadingScene.cpp(103,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  cMainGame.cpp
+  cPlayer.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\cPlayer.cpp(152,60): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cPlayer.cpp(152,158): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cRenderer.cpp
+  SDKsound.cpp
+  SDKwavefile.cpp
+  Eff_Exp_A.cpp
+  Eff_Exp_Big.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  EnemyBase.cpp
+  EnemyBullet_A.cpp
+  Enemy_Air.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\Enemy_Air.cpp(17,21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\stdafx.h(52,5): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+E:\재민이백업\DirectX_Shooting\소스코드\Enemy_Air.cpp(37): message : 컴파일되는 함수 템플릿 인스턴스화 'void Debug<int>(wchar_t *,const T &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=int
+          ]
+  Enemy_Juder.cpp
+  Enemy_Speeder.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\Enemy_Speeder.cpp(66,121): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameOver.cpp
+  GameStart.cpp
+  Math.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\Math.cpp(12,44): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\Math.cpp(32,72): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\Math.cpp(32,32): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\Math.cpp(42,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player_Bullet.cpp
+  Screen.cpp
+  Shoot_Fire.cpp
+  Stage1.cpp
+  cCameraManager.cpp
+  cImageManager.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\cImageManager.cpp(71,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\재민이백업\DirectX_Shooting\소스코드\cImageManager.cpp(94): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cImageManager.cpp(94,78): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cImageManager.cpp(105): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cImageManager.cpp(105,78): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cImageManager.cpp(118): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cImageManager.cpp(118,78): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+  cInputManager.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\cInputManager.cpp(23,34): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cInputManager.cpp(23,25): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cInputManager.cpp(36,22): warning C4838: 'FLOAT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cInputManager.cpp(36,22): warning C4244: '초기화 중': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cInputManager.cpp(36,30): warning C4838: 'FLOAT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cInputManager.cpp(36,30): warning C4244: '초기화 중': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cObject.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\cObject.cpp(15,2): warning C4239: 비표준 확장이 사용됨: '초기화 중': 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'에서 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>> &'(으)로의 변환입니다.
+          with
+          [
+              _Ty=std::pair<float,std::string>
+          ]
+E:\재민이백업\DirectX_Shooting\소스코드\cObject.cpp(15,2): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  cObjectManager.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(12,3): warning C4239: 비표준 확장이 사용됨: '초기화 중': 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'에서 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>> &'(으)로의 변환입니다.
+          with
+          [
+              _Ty=cObject *
+          ]
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(12,3): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(84,46): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(84,46): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(85,31): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(85,31): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(86,33): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(86,33): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(87,34): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(87,34): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(92,80): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(123,45): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(123,45): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(124,30): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(124,30): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(125,32): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(125,32): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(126,33): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(126,33): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(145,49): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(145,49): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(146,31): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(146,31): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(147,33): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(147,33): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(148,34): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(148,34): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(150,51): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(150,51): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(151,32): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(151,32): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(152,34): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(152,34): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(153,35): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(153,35): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cScene.cpp
+  cSceneManager.cpp
+  cScheduleManager.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\cScheduleManager.cpp(10,2): warning C4239: 비표준 확장이 사용됨: '초기화 중': 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'에서 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>> &'(으)로의 변환입니다.
+          with
+          [
+              _Ty=Schedule *
+          ]
+E:\재민이백업\DirectX_Shooting\소스코드\cScheduleManager.cpp(10,2): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  코드를 생성하고 있습니다...
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(133): warning C4702: 접근할 수 없는 코드입니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(71): warning C4702: 접근할 수 없는 코드입니다.
+E:\재민이백업\DirectX_Shooting\소스코드\cObjectManager.cpp(94): warning C4702: 접근할 수 없는 코드입니다.
+E:\재민이백업\DirectX_Shooting\소스코드\Math.cpp(13): warning C4717: 'Math::Random': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  컴파일하고 있습니다...
+  cSoundManager.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\cSoundManager.cpp(12,2): warning C4239: 비표준 확장이 사용됨: '초기화 중': 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'에서 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>> &'(으)로의 변환입니다.
+          with
+          [
+              _Ty=LPDIRECTSOUNDBUFFER
+          ]
+E:\재민이백업\DirectX_Shooting\소스코드\cSoundManager.cpp(12,2): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  DXUTenum.cpp
+  DXUTmisc.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\DXUT\Core\DXUTmisc.cpp(1263,13): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+  DXUTcamera.cpp
+  DXUTgui.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\DXUT\Optional\DXUTgui.cpp(6846,37): warning C4458: 'iTexture' 선언은 클래스 멤버를 숨깁니다.
+E:\재민이백업\DirectX_Shooting\소스코드\DXUT\Optional\DXUTgui.h(109,10): message : 'CDXUTElement::iTexture' 선언을 참조하십시오.
+E:\재민이백업\DirectX_Shooting\소스코드\DXUT\Optional\DXUTgui.cpp(6860,34): warning C4458: 'iFont' 선언은 클래스 멤버를 숨깁니다.
+E:\재민이백업\DirectX_Shooting\소스코드\DXUT\Optional\DXUTgui.h(110,10): message : 'CDXUTElement::iFont' 선언을 참조하십시오.
+E:\재민이백업\DirectX_Shooting\소스코드\DXUT\Optional\DXUTgui.cpp(6860,74): warning C4458: 'dwTextFormat' 선언은 클래스 멤버를 숨깁니다.
+E:\재민이백업\DirectX_Shooting\소스코드\DXUT\Optional\DXUTgui.h(111,11): message : 'CDXUTElement::dwTextFormat' 선언을 참조하십시오.
+  DXUTres.cpp
+  DXUTsettingsdlg.cpp
+  SDKmesh.cpp
+  SDKmisc.cpp
+  ComponentFrameWork.cpp
+E:\재민이백업\DirectX_Shooting\소스코드\ComponentFrameWork.cpp(146,40): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\재민이백업\DirectX_Shooting\소스코드\ComponentFrameWork.cpp(146,29): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+Bomb.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  ComponentFrameWork_2010.vcxproj -> E:\재민이백업\DirectX_Shooting\소스코드\Debug\ComponentFrameWork.exe
